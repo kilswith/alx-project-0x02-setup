@@ -1,4 +1,4 @@
-import Header from "../compnents/layouts/Header";
+import Header from "../compnents/layout/Header";
 
 export default function Home(){
   return(
